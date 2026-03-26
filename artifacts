@@ -1,0 +1,8 @@
+# Artifacts
+
+This folder contains output graphs generated from the project.
+
+## Files
+- relu_positive.png → Shows ReLU behavior for positive inputs
+- relu_negative.png → Shows dying ReLU problem
+- activation_comparison.png → Comparison of ReLU and improved functions
