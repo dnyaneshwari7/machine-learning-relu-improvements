@@ -12,6 +12,7 @@ python relu_analysis.py
 
 ## References
 - https://en.wikipedia.org/wiki/Rectifier_(neural_networks)
+- https://github.com/dnyaneshwari7/machine-learning-relu-improvements
 
 ## Author
 Dnyaneshwari
